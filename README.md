@@ -4,8 +4,6 @@
 **Project Sanitizer** automates the process of preparing **CloverDX sandboxes** for upload to **Upgrade Analyzer**.  
 It removes sensitive data, ensures compliance with security standards, and packages the sandboxes automatically — saving time and reducing human error.
 
-- [Project Wiki Page](https://cloverdx.atlassian.net/wiki/spaces/CON/pages/570064926/Project+sanitizer)
-
 ---
 
 ## Goals
